@@ -5,3 +5,4 @@ streamlit_extras==0.2.7
 streamlit_lottie==0.0.5
 requests
 pip==23.0.1
+pydantic==1.10.11
