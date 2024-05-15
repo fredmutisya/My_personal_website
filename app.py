@@ -127,17 +127,17 @@ Overall, my MSc in Data Science has been a transformative experience, providing 
     with st.container():
         image_column, text_column = st.columns((1,5))
         with image_column:
-            st.image('logos/mku.jpg', width=150)
+            st.image('moi_logo.jpg', width=150)
         with text_column:
-            st.subheader("MASTERS IN PUBLIC HEALTH | Mount Kenya University")
+            st.subheader("MASTERS IN FIELD EPIDEMIOLOGY | Moi University")
             st.write("Dates Attended: Ongoing")
             st.subheader("Knowledge gained")
             st.markdown("""
-           As an MPH student who is nearing the completion of the course work, I have gained a wealth of knowledge and skills in the field of public health. Throughout the program, I have delved into various essential subjects, such as epidemiology, biostatistics, environmental health, health policy, and management, as well as social and behavioral sciences. These areas of study have provided me with a comprehensive understanding of disease prevention, health promotion, and the planning and management of healthcare systems.
+           As an FELTP resident, I have gained a wealth of knowledge and skills in the field of public health. Throughout the program, I have delved into various essential subjects, such as epidemiology, biostatistics, environmental health, health policy, and management, as well as social and behavioral sciences. These areas of study have provided me with a comprehensive understanding of disease prevention, health promotion, and the planning and management of healthcare systems.
 
 Moreover, the program has highlighted the importance of addressing health disparities and focusing on community health. I have learned to analyze and assess the health needs of diverse populations and design effective health programs and policies to meet those needs. Additionally, global health has been a significant aspect of my learning, allowing me to comprehend the complexities of health challenges on an international scale.
 
-As I approach the end of my MPH journey, I feel equipped and prepared to make a meaningful impact in the field of public health. I am excited to utilize my expertise to advocate for the improvement of health and well-being in communities and contribute to positive changes in healthcare systems. The skills I have acquired during this program will undoubtedly play a crucial role in my future career, as I strive to create a healthier and more equitable world for everyone.
+As I approach the end of my FELTP journey, I feel equipped and prepared to make a meaningful impact in the field of public health. I am excited to utilize my expertise to advocate for the improvement of health and well-being in communities and contribute to positive changes in healthcare systems. The skills I have acquired during this program will undoubtedly play a crucial role in my future career, as I strive to create a healthier and more equitable world for everyone.
             """)            
     
     
